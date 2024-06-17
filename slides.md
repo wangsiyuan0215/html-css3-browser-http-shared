@@ -32,13 +32,9 @@ src: ./pages/introduction.md
 ---
 
 ---
-src: ./pages/html/semantic-tag.md
+src: ./pages/html.md
 ---
 
 ---
-src: ./pages/html/first-screen-load.md
----
-
----
-src: ./pages/html/emmet.md
+src: ./pages/css.md
 ---

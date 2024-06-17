@@ -1,3 +1,7 @@
+---
+level: 2
+---
+
 # HTML 效率神器之 Emmet
 
 Emmet 是一个可用在许多流行文本编辑器上的极大简化 HTML 和 CSS 工作流程的插件。
@@ -7,3 +11,5 @@ Emmet 是一个可用在许多流行文本编辑器上的极大简化 HTML 和 C
 这部分仅先介绍 Emmet 的 HTML 部分，CSS 部分会在后面部分介绍。
 
 [HTML 效率神器之 Emmet](<assets/files/HTML 事半功倍之 Emmet.pdf>)
+
+<iframe src="https://stackblitz.com/edit/web-platform-v6npb2?ctl=1&embed=1&file=index.html&hideNavigation=1&view=editor" class="w-full h-64"></iframe>

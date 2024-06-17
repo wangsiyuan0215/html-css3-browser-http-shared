@@ -1,3 +1,7 @@
+---
+level: 2
+---
+
 # 语义化标签
 
 <div class="flex gap-x-4">
@@ -54,6 +58,9 @@
 </div>
 </div>
 
+---
+level: 2
+hideInToc: true
 ---
 
 # 语义化标签
