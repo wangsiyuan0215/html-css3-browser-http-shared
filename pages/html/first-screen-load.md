@@ -59,7 +59,7 @@ hideInToc: true
 
 <v-click>
 
-<div class="inline-block p-2 bg-gray-300 rounded">
+<div class="inline-block p-2 bg-white rounded">
   <img src="/assets/images/defer_async.png" class="h-30" />
 </div>
 
