@@ -134,7 +134,7 @@ CSS 解析器会根据选择器的权重来确定最终的样式，但是它是�
 
 <div class="p-2 bg-white rounded">
 
-<img src="assets/images/selector-html-tree.png" class="h-66">
+<img src="/assets/images/selector-html-tree.png" class="h-66">
 
 </div>
 
@@ -226,7 +226,7 @@ hideInToc: true
 
 <div class="p-2 bg-white rounded">
 
-<img src="assets/images/selector-html-tree.png" class="h-66">
+<img src="/assets/images/selector-html-tree.png" class="h-66">
 
 </div>
 

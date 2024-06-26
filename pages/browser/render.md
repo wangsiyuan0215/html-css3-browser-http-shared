@@ -80,7 +80,7 @@ _Q. DNS 解析的具体过程？以 `www.baidu.com.` 为例_
 
 <div class="inline-block p-4 bg-white rounded">
 
-<img src="assets/images/DNS.png" class="w-full" />
+<img src="/assets/images/DNS.png" class="w-full" />
 
 </div>
 
@@ -132,7 +132,7 @@ _Q. 请描述浏览器渲染的过程？_
 
 <div class="flex-1">
 
-<img src="assets/images/html-render.png" class="mt-4 w-full" />
+<img src="/assets/images/html-render.png" class="mt-4 w-full" />
 
 </div>
 

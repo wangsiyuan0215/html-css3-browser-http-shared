@@ -23,7 +23,7 @@ _Q. 浏览器 HTML 的元素是以什么方向排列布局的？_
 
 <div class="inline-block bg-white p-4 rounded">
 
-<img src="assets/images/box.png" class="h-40" />
+<img src="/assets/images/box.png" class="h-40" />
 
 </div>
 

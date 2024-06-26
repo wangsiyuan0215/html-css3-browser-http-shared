@@ -31,7 +31,7 @@ _Q. 当我们设定 `font-size` 是设定了文字的什么？是文字的宽高
 
 <div class="p-4 bg-white absolute">
 
-<img src="assets/images/font-size.png" class="h-30"/>
+<img src="/assets/images/font-size.png" class="h-30"/>
 
 </div>
 

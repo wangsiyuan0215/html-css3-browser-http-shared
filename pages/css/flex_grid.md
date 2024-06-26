@@ -18,7 +18,7 @@ level: 2
 
 ##### Flex Game
 
-<img src="assets/images/game-flex-result.png" class="h-60" />
+<img src="/assets/images/game-flex-result.png" class="h-60" />
 
 </div>
 
@@ -26,7 +26,7 @@ level: 2
 
 ##### Grid Game
 
-<img src="assets/images/game-grid-result.png" class="h-60" />
+<img src="/assets/images/game-grid-result.png" class="h-60" />
 
 </div>
 
