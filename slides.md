@@ -38,3 +38,20 @@ src: ./pages/html.md
 ---
 src: ./pages/css.md
 ---
+
+---
+src: ./pages/browser.md
+---
+
+---
+src: ./pages/http.md
+---
+
+---
+layout: cover
+hideInToc: true
+class: text-center
+---
+
+# Thank you!
+Slides can be found [Here](https://wangsiyuan0215.github.io/html-css3-browser-http-shared)
