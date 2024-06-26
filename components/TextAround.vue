@@ -14,7 +14,7 @@ defineProps({
     praesentium similique odio, blanditiis commodi minima ipsum facere totam
     magnam,
     <img
-      src="../assets/images/bg.jpg"
+      src="/assets/images/bg.jpg"
       class="m-4 ml-0 t-20 h-40 float-left rounded-md"
       :class="circle ? 'w-50 h-50 object-cover !rounded-full shape-circle' : ''"
     />

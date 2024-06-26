@@ -3,7 +3,7 @@
 theme: dracula
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./assets/images/bg.jpg
+background: /assets/images/bg.jpg
 # some information about your slides, markdown enabled
 title: HTML / CSS / Browser / Http
 info: HTML / CSS / Browser / Http 知识分享
